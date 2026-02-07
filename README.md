@@ -6,3 +6,6 @@ https://getbootstrap.com/docs/5.3/components/card/
 https://12prasancmu.vercel.app/
 
 ส่วนของไอซ์ทำตัวนโยบายไม่รู้จะให้เริ่มยังไงเพราะนโยบายยังไม่ลงตัว แต่อาจจะมีหน้าสมาชิกที่ต้อองทำขอเวลาสักนิด
+
+****
+วาง Template อัปเดตกิจกรรม เพิ่ม page กิจกรรมทั้งหมด และวาง template
